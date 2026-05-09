@@ -131,13 +131,13 @@ Built a **Convolutional Neural Network (CNN)** using TensorFlow and Keras for Ca
 
 # 🎬 Task 4 - Recommendation System
 
-Built a Movie Recommendation System using **Content-Based Filtering** and **Cosine Similarity** techniques.
+Built a Movie Recommendation System using **Cosine Similarity** and Machine Learning recommendation techniques to suggest similar movies.
 
 ## 🔍 Concepts Covered
 
 - Recommendation Systems
-- Content-Based Filtering
 - Cosine Similarity
+- Similarity Matching
 - Similarity Scoring
 - Text Vectorization
 
@@ -147,10 +147,11 @@ Built a Movie Recommendation System using **Content-Based Filtering** and **Cosi
 
 ## ✅ Features
 
-✔️ Genre-based recommendation  
+✔️ Genre-based movie recommendation  
 ✔️ Similarity score calculation  
 ✔️ Movie recommendation generation  
 ✔️ Recommendation testing  
+✔️ Intelligent movie suggestion system   
 
 ---
 
